@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAX_EMAILS 1000
+#define MAX_EMAILS 10000
 #define MAX_LINE 500
 
 // Represents one email
